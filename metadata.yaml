@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26008
     wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31676#Heathen-Master-Filcsik
 gutenberg_issued: '2010-03-17'
 gutenberg_type: Text
 identifiers:
